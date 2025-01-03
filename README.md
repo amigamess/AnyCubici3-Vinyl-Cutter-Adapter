@@ -12,6 +12,7 @@ Vinyl Cutter adapter for AnyCubici3MegaS
 ![Cutter_02](https://github.com/user-attachments/assets/722ffc4d-e7a0-49ef-ac73-0de11ad6d00c)
 
 Cutter from Aliexpress!
+
 ![cutter](https://github.com/user-attachments/assets/e42e61cd-3ba4-4bf2-82da-98266745216d)
 
 Use inkscape for trace stickers, FREECAD for export .stl and CURA for CUT! 
