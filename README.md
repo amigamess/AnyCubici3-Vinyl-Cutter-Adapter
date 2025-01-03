@@ -5,6 +5,8 @@
 # AnyCubici3-Vinyl-Cutter-Adapter
 Vinyl Cutter adapter for AnyCubici3MegaS
 
+LOOK README.TXT FILE FIRST!
+
 ![Cutter_01](https://github.com/user-attachments/assets/e4bc32e8-4279-4017-8f86-327af1c30f6e)
 
 ![Cutter_04](https://github.com/user-attachments/assets/2f8e582b-96eb-4056-8831-eb2f7ec3c13a)
@@ -42,7 +44,7 @@ ZOFFSET YOU NEED TO CALCULATE!!!
 ![impostazioniCURAPlotter_04](https://github.com/user-attachments/assets/63a53e81-f4e1-42f1-bd07-731f413673c6)
 
 
-LOOK README FILE FIRST!
+
 
 
 
