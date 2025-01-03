@@ -39,7 +39,7 @@ CURA SETTINGS
 
 ![impostazioniCURAPlotter_03](https://github.com/user-attachments/assets/af9e803e-e255-481a-a075-de76314134bf)
 
-ZOFFSET YOU NEED TO CALCULATE!!!
+ZOFFSET YOU NEED TO CALCULATE!!! LOOK README.TXT FILE!
 
 ![impostazioniCURAPlotter_04](https://github.com/user-attachments/assets/63a53e81-f4e1-42f1-bd07-731f413673c6)
 
