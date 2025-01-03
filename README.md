@@ -16,7 +16,8 @@ Cutter from Aliexpress!
 
 Use inkscape for trace stickers, FREECAD for export .stl and CURA for CUT! 
 
-CURA SETTING:
+CURA SETTING
+
 Create a new Printer, modify start GCode page in CURA (donwload file "gcode STAR AnycubicPLOTTER.txt" and past into config area, look photo) 
 
 ![impostazioniCURAPlotter_01](https://github.com/user-attachments/assets/afbff155-0f9d-4b5e-adb9-1cc4df3c2a1a)
